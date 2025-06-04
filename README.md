@@ -1,6 +1,6 @@
 #  Natural Language Processing (NLP) Labs
 
-This repository contains a series of NLP labs completed during my university coursework. Each lab explores key techniques and models in natural language processing.
+This repository contains a series of NLP labs completed during my university coursework. Each lab explores key techniques and models in natural language processing..
 
 ##  Lab Overview
 
